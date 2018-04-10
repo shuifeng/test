@@ -1,0 +1,22 @@
+{
+  "name": "sf_test",
+  "version": "1.0.0",
+  "description": "aaa",
+  "main": "SFZoomImage.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shuifeng/test.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "rw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shuifeng/test/issues"
+  },
+  "homepage": "https://github.com/shuifeng/test#readme"
+}
